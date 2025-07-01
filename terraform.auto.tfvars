@@ -2,9 +2,9 @@
 org-policy = [
   {
     constraint        = "constraints/compute.disableNonFIPSMachineTypes"
-    policy_type       = "list"
+    policy_type       = "boolean"
     policy_for        = "folder"
-    folder_id         = "1111111111111111111"
+    folder_id         = "54324"
     project_id        = null
     organization_id   = null
     enforce           = null
