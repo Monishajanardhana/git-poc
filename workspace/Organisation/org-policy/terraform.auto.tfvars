@@ -16,6 +16,3 @@ org-policy = [
   },
 ]
 # <<< org-policy <<<
-
-
-
